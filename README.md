@@ -21,4 +21,3 @@ Dieses Problem soll gelöst werden, indem der beste Filter einfach extern berech
 Mach eine PR in der du die Datei `lanis-mobile-api/src/endpoints/filterGenerate.ts` editierst, dass sie für deine Schule passt. Wenn du dass nicht kannst, dann hilft es uns schon, wenn du uns informationen zu deiner Schule gibst. 
 
 Es wäre ideal, wenn du eine eigene Pull Request erstellen kannst, um deine Schule zu implementieren (JS/TS-Kenntnisse erforderlich). Es würde uns jedoch auch helfen, wenn du uns nur einige Namenskonventionen für Klassen in Schulen und Einträge im Vertretungsplan deiner Schule zur Verfügung stellen könntest. (bevorzugt ein GH Issue aber auch per Mail an <a href="mailto:alessioc42.dev@gmail.com">mich</a>)
-
